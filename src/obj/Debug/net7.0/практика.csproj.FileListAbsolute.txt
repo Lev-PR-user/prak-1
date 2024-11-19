@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\laz\практика\bin\Debug\net7.0\практика.exe
+C:\Users\user\Desktop\laz\практика\bin\Debug\net7.0\практика.deps.json
+C:\Users\user\Desktop\laz\практика\bin\Debug\net7.0\практика.runtimeconfig.json
+C:\Users\user\Desktop\laz\практика\bin\Debug\net7.0\практика.dll
+C:\Users\user\Desktop\laz\практика\bin\Debug\net7.0\практика.pdb
+C:\Users\user\Desktop\laz\практика\obj\Debug\net7.0\практика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\laz\практика\obj\Debug\net7.0\практика.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\laz\практика\obj\Debug\net7.0\практика.AssemblyInfo.cs
+C:\Users\user\Desktop\laz\практика\obj\Debug\net7.0\практика.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\laz\практика\obj\Debug\net7.0\практика.dll
+C:\Users\user\Desktop\laz\практика\obj\Debug\net7.0\refint\практика.dll
+C:\Users\user\Desktop\laz\практика\obj\Debug\net7.0\практика.pdb
+C:\Users\user\Desktop\laz\практика\obj\Debug\net7.0\практика.genruntimeconfig.cache
+C:\Users\user\Desktop\laz\практика\obj\Debug\net7.0\ref\практика.dll
